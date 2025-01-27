@@ -10,7 +10,7 @@
 
 ## Homepage:
 
-![Screenshot (291)](https://github.com/bhusawant/HealthConnect/assets/102148710/5ff7ae8e-28bb-4756-83a9-8e4b7a14ee52)
+![image](https://github.com/user-attachments/assets/064b7c43-cf99-40d2-90ce-4f700c869f65)
 ![Screenshot (292)](https://github.com/bhusawant/HealthConnect/assets/102148710/31c86705-c4b0-4a74-b71d-a92bbf84fa5a)
 ![Screenshot (293)](https://github.com/bhusawant/HealthConnect/assets/102148710/e79425e6-96e6-4ea7-b0c0-f3461aa9c5a0)
 ![Screenshot (294)](https://github.com/bhusawant/HealthConnect/assets/102148710/ebf7e9c9-64b8-44e8-a968-80b83bfecb5c)
@@ -25,7 +25,19 @@
 
 ## Jobs for medical personnel:
 
-![Screenshot (300)](https://github.com/bhusawant/HealthConnect/assets/102148710/9d2e680b-56cc-45e5-97df-b6a4145d46fc)
-![Screenshot (301)](https://github.com/bhusawant/HealthConnect/assets/102148710/2bd3611a-ef44-4b46-a6cf-35dc023b1058)
-![Screenshot (302)](https://github.com/bhusawant/HealthConnect/assets/102148710/a713e348-c068-42dc-9694-5f7ad6199436)
+![image](https://github.com/user-attachments/assets/75273c7f-32b5-4aa5-ad66-fcff0633c2d3)
+![image](https://github.com/user-attachments/assets/3083aecd-4228-489d-8a1d-cb77e9f23be5)
+![image](https://github.com/user-attachments/assets/4fa32ef0-388d-42bd-988f-faa533fb8b83)
+![image](https://github.com/user-attachments/assets/341453fc-6b59-4955-a250-b67e9b2952ce)
+![image](https://github.com/user-attachments/assets/83b6f2d0-0576-440f-bbfb-e54c4c79d381)
+
+## After click on APPLY button
+![image](https://github.com/user-attachments/assets/c44fa07a-c6db-4317-8be5-fd67bdf4c334)
+## Applicant data in MongoDB database
+![image](https://github.com/user-attachments/assets/af4837c0-d1cb-410c-b2f4-8650dd5ce48c)
+
+
+
+
+
 
