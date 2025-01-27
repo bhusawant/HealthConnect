@@ -19,9 +19,10 @@
 ![Screenshot (297)](https://github.com/bhusawant/HealthConnect/assets/102148710/1e8716d9-caa3-4128-8209-5572962381c1)
 ![Screenshot (298)](https://github.com/bhusawant/HealthConnect/assets/102148710/6aacb53e-6879-48be-a4ab-c83b1710e5e2)
 
-## Appointment form:
+## Appointment form and details:
 
-![Screenshot (299)](https://github.com/bhusawant/HealthConnect/assets/102148710/19c72cd8-90fd-4486-9cac-ce2392e61a8c)
+![image](https://github.com/user-attachments/assets/521fc88e-47d2-4caf-8514-22a54f97ab2e)
+![image](https://github.com/user-attachments/assets/847aa9f5-3ce7-41d9-afc2-4871150196eb)
 
 ## Jobs for medical personnel:
 
@@ -35,6 +36,18 @@
 ![image](https://github.com/user-attachments/assets/c44fa07a-c6db-4317-8be5-fd67bdf4c334)
 ## Applicant data in MongoDB database
 ![image](https://github.com/user-attachments/assets/af4837c0-d1cb-410c-b2f4-8650dd5ce48c)
+
+## Medical Products
+![image](https://github.com/user-attachments/assets/59180fd3-5212-4332-8e07-18bcdda4d4d7)
+![image](https://github.com/user-attachments/assets/c07b59c7-66dd-4c2e-9f14-f419e1cb023d)
+![image](https://github.com/user-attachments/assets/9a6af38d-887a-453b-9bac-4819b0eac8ca)
+![image](https://github.com/user-attachments/assets/ee14d871-4dd3-48fb-908f-b4adcc7e0a5b)
+![image](https://github.com/user-attachments/assets/3d2fcbbe-4eb2-410e-8cff-db720597bcad)
+![image](https://github.com/user-attachments/assets/8d0a7840-f9b6-43c7-a168-0b2c9162c2db)
+
+
+
+
 
 
 
