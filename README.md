@@ -32,9 +32,9 @@
 ![image](https://github.com/user-attachments/assets/341453fc-6b59-4955-a250-b67e9b2952ce)
 ![image](https://github.com/user-attachments/assets/83b6f2d0-0576-440f-bbfb-e54c4c79d381)
 
-## After click on APPLY button
+## After clicking on the APPLY button
 ![image](https://github.com/user-attachments/assets/c44fa07a-c6db-4317-8be5-fd67bdf4c334)
-## Applicant data in MongoDB database
+## Applicant data in the MongoDB database
 ![image](https://github.com/user-attachments/assets/af4837c0-d1cb-410c-b2f4-8650dd5ce48c)
 
 ## Medical Products
@@ -44,6 +44,17 @@
 ![image](https://github.com/user-attachments/assets/ee14d871-4dd3-48fb-908f-b4adcc7e0a5b)
 ![image](https://github.com/user-attachments/assets/3d2fcbbe-4eb2-410e-8cff-db720597bcad)
 ![image](https://github.com/user-attachments/assets/8d0a7840-f9b6-43c7-a168-0b2c9162c2db)
+
+
+## Book medical personnel for the aid of the patient 
+![image](https://github.com/user-attachments/assets/3835f31c-421f-422f-8652-e2c8148cf67a)
+![image](https://github.com/user-attachments/assets/93af6c73-a38b-48df-8f4f-fee35f8b0a96)
+![image](https://github.com/user-attachments/assets/b6be35c6-f000-4430-8d7d-b512f5d524da)
+
+## Data Saved in MongoDB database
+![image](https://github.com/user-attachments/assets/3182b6cf-ae4b-4441-91bc-76f6e408a669)
+
+
 
 
 
